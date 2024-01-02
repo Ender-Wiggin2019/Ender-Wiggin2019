@@ -1,10 +1,11 @@
 
 
 # Hi
+<a href="https://wakatime.com/@d8e4cf0d-ab24-4c9d-b5b9-411b2fc585b0"><img src="https://wakatime.com/badge/user/d8e4cf0d-ab24-4c9d-b5b9-411b2fc585b0.svg?style=social" alt="Total time coded since Mar 22 2023" /></a>
 
 <picture>
   <source
-    srcset="https://github-readme-stats-au6v.vercel.app/api?username=Ender-Wiggin2019&count_private=true&show_icons=true&hide_rank=true&theme=dark"
+    srcset="https://github-readme-stats-au6v.vercel.app/api?username=Ender-Wiggin2019&count_private=true&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -28,10 +29,10 @@ I have the following skills:
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Vite 2"
+<!-- <img alt="Vite 2"
     src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
 <img alt="Vue 3"
-    src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+    src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" /> -->
 </p>
 
 **Backend Developer**
@@ -45,21 +46,6 @@ I have the following skills:
     src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL"
     src="https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=PostgreSQL&logoColor=white" />
-  <img alt="spark"
-    src="https://img.shields.io/badge/-spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-</p>
-
-**DevOps**
-
-<p>
-  <img alt="git"
-    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker"
-    src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Ubuntu"
-    src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 **Mobile Developer**
